@@ -18,10 +18,10 @@
                     "openshift.io/display-name": "JBoss Web Server 3.1 Apache Tomcat 8",
                     "openshift.io/provider-display-name": "Red Hat, Inc.",
                     "version": "1.4"
+                },
+                "labels": {
+                    "xpaas": "1.4.17"
                 }
-            },
-            "labels": {
-                "jws31": "1.4"
             },
             "spec": {
                 "tags": [
